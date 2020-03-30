@@ -3,7 +3,9 @@ name = "curry-macro"
 version = "0.1.0"
 authors = ["Kevin Li <kevinli020508@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Have fun currying using Rust's native closure syntax."
+keywords = ["curry", "closure", "function", "fp"]
+license = "MIT"
+repository = "https://github.com/AlienKevin/curry-macro"
 
 [dependencies]

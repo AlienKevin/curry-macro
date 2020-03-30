@@ -44,3 +44,6 @@ assert_eq!(sum, 3);
 
 # Credits
 Big thanks to Korede-TA for his awesome [curry-macro](https://github.com/Korede-TA/curry-macro).
+
+# License
+MIT
